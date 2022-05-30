@@ -120,7 +120,7 @@ Note that the file should not include the total number of lines. All lines must 
 
 Here is an example of a line. It contains three items: first name, last name, and email of a person.
 
-Work on project. Stage 3/6: User menu
+- Work on project. Stage 3/6: User menu
 
 Description
 
