@@ -1,7 +1,7 @@
 # SimpleSearchEngine.v1
 Simple Search Engine from JetBrains
 
-Work on project. Stage 6/6: Search strategies
+- Work on project. Stage 6/6: Search strategies
 
 Description
 
@@ -68,7 +68,7 @@ Rene Webb webb@gmail.com
 All listed operations are implemented in the inverted index. The results should not contain duplicates.
 Note, do not forget to use methods to decompose your program.
 
-Work on project. Stage 5/6: Inverted Index search
+- Work on project. Stage 5/6: Inverted Index search
 
 Description
 
@@ -101,7 +101,7 @@ The order of pairs is not important. If you are searching for Erick, you can imm
 Note that the Inverted Index is not intended to search for parts of a word, it is only used to search for full words.
 
 
-Work on project. Stage 4/6: X-files
+- Work on project. Stage 4/6: X-files
 
 Description
 
@@ -137,7 +137,7 @@ The user must select a menu item and then enter data if necessary. Your program 
 Decompose the program into separate methods to make it easy to understand and add to or edit later.
 
 
-Work on project. Stage 2/6: Expand the search
+- Work on project. Stage 2/6: Expand the search
 
 Description
 
@@ -163,7 +163,7 @@ The search should ignore letter cases and all the extra spaces.
 
 Firstly, the user should input a number N, which is a number of lines with data they are going to enter next. Then the user enters N lines with data. After that, the user enters a number M, which is a number of search queries. And after each query, the program should print the information it managed to find among the data. You can see this searching process in the example below.
 
-Work on project. Stage 1/6: String theory
+- Work on project. Stage 1/6: String theory
 
 Description
 
